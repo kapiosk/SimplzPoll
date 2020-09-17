@@ -2,4 +2,4 @@ venv/
 __pycache__/
 certs/
 logfile.out
-.vscode2/
+.vscode/
